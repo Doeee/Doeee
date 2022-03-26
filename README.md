@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Catherine
+- 👋 Hi, I’m Yuzuru
 - 👀 Now it's the second grade of graduate student
 - 🌱 I'm learning web development technology.
 
